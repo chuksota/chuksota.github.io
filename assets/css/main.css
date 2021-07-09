@@ -269,6 +269,7 @@ input, select, textarea {
 
 		.row > * {
 			box-sizing: border-box;
+			margin-left: 200px;
 		}
 
 		.row.gtr-uniform > * > :last-child {
